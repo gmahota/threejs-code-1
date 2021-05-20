@@ -1,4 +1,4 @@
-# Three.js Starter
+# Three.js Starter [![Netlify Status](https://api.netlify.com/api/v1/badges/cb4526ae-4d1a-4358-9e05-afd39603071e/deploy-status)](https://app.netlify.com/sites/mahota-3d-sphere/deploys)
 
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
