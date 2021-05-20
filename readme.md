@@ -20,4 +20,4 @@ npm run build
 
 ## Requisit's
 
-(Normal Map )[https://cpetry.github.io/NormalMap-Online/] - To convert images to normal map
+[Normal Map](https://cpetry.github.io/NormalMap-Online/) - To convert images to normal map
